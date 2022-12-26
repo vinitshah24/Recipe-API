@@ -21,7 +21,7 @@ Create new project
 django-admin startproject app .
 ```
 
-Run ther server
+Run the server
 ```
 python manage.py runserver
 ```
@@ -44,4 +44,5 @@ python manage.py runserver
 Create superuser
 ```
 python manage.py createsuperuser
+Token <token#>
 ```

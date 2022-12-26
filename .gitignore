@@ -1,6 +1,8 @@
 # VS Code
 .vscode
 
+media/
+
 # ignore migrations
 **/migrations/**
 !**/migrations

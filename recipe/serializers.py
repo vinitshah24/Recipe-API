@@ -3,11 +3,7 @@ Serializers for recipe APIs
 """
 from rest_framework import serializers
 
-from core.models import (
-    Recipe,
-    Tag,
-    Ingredient,
-)
+from core.models import Recipe, Tag, Ingredient
 
 
 class IngredientSerializer(serializers.ModelSerializer):
